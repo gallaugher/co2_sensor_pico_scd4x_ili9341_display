@@ -4,8 +4,6 @@ A desk-top air-quality readout written in CircuitPython. An Adafruit SCD-40 meas
 
 This is a port of the [QT Py / 1.44" ST7735R version](https://github.com/gallaugher/c02sensor-w-QTPy-and-TFT-LCD) to the Pico and a bigger display. The display wiring and fonts come from the [ILI9341 320x240 display repo](https://github.com/gallaugher/ili9341-320x240-display-circuitpython).
 
-![Screen layout](scd40-ili9341-layout-preview.png)
-
 ## Parts
 
 - [Raspberry Pi Pico 2 W with headers](https://www.adafruit.com/product/6315) (the [headerless version](https://www.adafruit.com/product/6087) works if you don't mind soldering)
